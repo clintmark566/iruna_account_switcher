@@ -1,0 +1,3 @@
+PENTING: GitHub Actions membutuhkan Gradle Wrapper (gradlew, gradlew.bat, gradle/wrapper/*).
+Source ini disiapkan untuk workflow cloud-build. Jika repository belum memiliki Gradle Wrapper,
+buat/upload wrapper terlebih dahulu atau gunakan Android Studio untuk menghasilkan wrapper.
